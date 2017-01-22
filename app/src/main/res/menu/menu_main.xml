@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.alfabank.news_viewer.MainActivity">
+    <item android:id="@+id/devInfo"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="О разработчике">
+    </item>
+    <item android:id="@+id/Liked"
+        android:icon="@android:drawable/btn_star"
+        android:title="Избранное">
+    </item>
+</menu>

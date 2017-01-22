@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">News_viewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_liked">Избранное</string>
+    <string name="title_preview">Альфа-банк</string>
+    <string name="title_rss">Новости Альфа-банка</string>
+    <string name="title_webview">Подробнее</string>
+    <string name="title_develop">О разработчике</string>
+    <string name="action_no_internet">Для работы приложения нужен доступ в интернет. Включите его и повторите попытку.</string>
+    <string name="DevInfo">Тестововое задание "новостное приложение" выполнил будущий Android разработчик "Альфа-банка" ;) Семеньков Павел Михайлович pavel.semenkov87@mail.ru</string>
+
+    <string name="previewText"><![CDATA[
+        <b>Приложение новости Альфа-банка.</b>
+        <br/>
+        <ul>
+        <br/>
+        <li>Чтобы сохранить новость нажмите кнопку добавить в избранное.</li>
+        <br/>
+        <li>Для просмотра избранного нажмите пункт избранное в верхнем меню.</li>
+        <br/>
+        <li>Для обновления списка новостей потяните список вниз.</li>
+        </ul>
+        ]]></string>
+</resources>
